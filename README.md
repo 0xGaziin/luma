@@ -1,15 +1,34 @@
-# GNU/Linux Luma
+# 🌙 Luma OS | Next Generation Arch-Based System
 
-## 🚀 Linux Luma
-Linux Luma is a Debian-based distribution meticulously engineered to transform low-end hardware into powerful workstations for software development.
+Welcome to the official repository of **Luma OS**, a high-performance Linux distribution built for users who demand speed, stability, and a modern aesthetic.
 
-The goal is simple: provide the stability of Debian with a stripped-down, high-performance environment that stays out of your way and lets you code.
+## 🚀 Luma OS 1.0 "New Moon"
+The current stable release is focused on the **KDE Plasma** desktop environment and the **Linux Zen Kernel**, providing a seamless balance between productivity and gaming.
 
-## 🎯 Why Linux Luma?
-Modern operating systems often waste precious CPU cycles and RAM on visual effects and background telemetry. Linux Luma reclaims those resources for your compilers, IDEs, and Docker containers.
+### ✨ Key Features
+* **Core:** Built on the solid foundation of Arch Linux.
+* **Kernel:** Powered by `linux-zen` for low-latency performance.
+* **UI/UX:** Polished KDE Plasma experience.
+* **Smart Updates:** Custom OTA (Over-The-Air) update manager integrated with GitHub.
+* **Fast & Light:** Optimized for modern x86_64 hardware.
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
+---
 
-Developed only by 0xGaziin.
-Giving new life to old silicon.
+## 🛠️ Project Structure
+* `airootfs/` - The heart of the OS (custom scripts and configs).
+* `packages.x86_64` - The official package manifest.
+* `profiledef.sh` - System build specifications.
+
+## 📡 Live Updates
+Luma OS features a native update checker. When we push a new version to the `main` branch, your system will automatically notify you and offer a one-click upgrade to the latest build.
+
+---
+
+## 👨‍💻 Developed by
+**0xGaziin**
+> "Building the future of Linux, one moon at a time."
+
+---
+
+### 🌑 Stay Connected
+[Link do seu Site ou Portfolio] | [Link do Discord/Comunidade]
