@@ -29,6 +29,3 @@ Luma OS features a native update checker. When we push a new version to the `mai
 > "Building the future of Linux, one moon at a time."
 
 ---
-
-### 🌑 Stay Connected
-[Link do seu Site ou Portfolio] | [Link do Discord/Comunidade]
